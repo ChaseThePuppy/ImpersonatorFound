@@ -18,4 +18,4 @@ copy and paste this into ur socials
 ```batch
 STOP IMPERSONATORS!!!
 ```
-### Bye :bye:
+### Bye :wave:
