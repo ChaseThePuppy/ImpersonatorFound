@@ -1,7 +1,4 @@
 --renny
---[[
-    Obfuscated using CHASEFUSCATOR DEVELOPER v2 by ChaseThePuppy
-]]
 return (function(...)
 	local M = {
 			"xo44C+==",
